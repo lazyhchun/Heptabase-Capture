@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Heptabase "H." logo: monochrome on transparent for PopClip -->
+  <!-- Left vertical stroke of H -->
+  <path d="M56,32 C56,32 56,32 56,32 C72.569,32 86,45.431 86,62 L86,194 C86,210.569 72.569,224 56,224 C39.431,224 26,210.569 26,194 L26,62 C26,45.431 39.431,32 56,32 Z" fill="currentColor"/>
+  <!-- Right vertical stroke of H -->
+  <path d="M152,32 C168.569,32 182,45.431 182,62 L182,194 C182,210.569 168.569,224 152,224 C135.431,224 122,210.569 122,194 L122,62 C122,45.431 135.431,32 152,32 Z" fill="currentColor"/>
+  <!-- Horizontal bridge of H (rounded) -->
+  <path d="M86,98 L122,98 C122,98 122,128 122,128 L86,128 C86,128 86,98 86,98 Z" fill="currentColor"/>
+  <!-- Dot -->
+  <circle cx="216" cy="194" r="26" fill="currentColor"/>
+</svg>

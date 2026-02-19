@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python token (本地敏感文件，不提交)
+token.json
+
+# IDE
+.vscode/

@@ -1,0 +1,14 @@
+{
+    "identifier": "com.local.heptabase-card",
+    "popclipVersion": 4225,
+    "name": "Heptabase Card",
+    "icon": "icon.svg",
+    "actions": [
+        {
+            "title": "Save to Note Card",
+            "type": "shell-script",
+            "shell script file": "card.sh",
+            "after": "show-result"
+        }
+    ]
+}

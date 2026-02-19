@@ -1,0 +1,14 @@
+{
+    "identifier": "com.local.heptabase-journal",
+    "popclipVersion": 4225,
+    "name": "Heptabase Journal",
+    "icon": "icon.svg",
+    "actions": [
+        {
+            "title": "Append to Journal",
+            "type": "shell-script",
+            "shell script file": "append.sh",
+            "after": "show-result"
+        }
+    ]
+}
